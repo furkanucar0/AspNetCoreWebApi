@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNUFTtKEveJx+7lEHKD3thlRcqrB/N0RvBvJz6HA6OK+kiEoeFNlpUkTuABGyxpcyB0pmHNWVqUq75d53y1EYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\AspNetCoreWebApi\\Applications\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\furka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
