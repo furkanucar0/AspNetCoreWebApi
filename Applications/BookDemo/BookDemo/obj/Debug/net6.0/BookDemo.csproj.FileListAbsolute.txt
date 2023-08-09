@@ -30,3 +30,7 @@ C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\BookD
 C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\BookDemo\BookDemo\obj\Debug\net6.0\BookDemo.pdb
 C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\BookDemo\BookDemo\obj\Debug\net6.0\BookDemo.genruntimeconfig.cache
 C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\BookDemo\BookDemo\obj\Debug\net6.0\ref\BookDemo.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\BookDemo\BookDemo\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\BookDemo\BookDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\BookDemo\BookDemo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\BookDemo\BookDemo\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

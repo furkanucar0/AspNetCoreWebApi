@@ -3,10 +3,10 @@ using BookDemo.Models;
 
 namespace BookDemo.Data
 {
-    public static class AplicationContext
+    public static class ApplicationContext
     {
         public static List<Book> Books { get; set; }
-        static AplicationContext()
+        static ApplicationContext()
         {
             Books = new List<Book>()
             {
