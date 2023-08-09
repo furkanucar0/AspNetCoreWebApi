@@ -59,8 +59,6 @@ namespace BookDemo.Controllers
             }
         }
 
-
-
         [HttpPut("{id:int}")]
         public IActionResult UpdateOneBook([FromRoute(Name = "id")] int id, [FromBody] Book book)
         {
