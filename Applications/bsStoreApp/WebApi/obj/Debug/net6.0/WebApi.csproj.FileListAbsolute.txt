@@ -89,3 +89,7 @@ C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsSto
 C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Entities.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Entities.pdb
+C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Repositories.dll
+C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Repositories.pdb
