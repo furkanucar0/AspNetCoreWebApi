@@ -1333,6 +1333,20 @@
         "runtime": {
           "bin/placeholder/Repositories.dll": {}
         }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
       }
     }
   },
@@ -4109,6 +4123,11 @@
       "type": "project",
       "path": "../Repositories/Repositories.csproj",
       "msbuildProject": "../Repositories/Repositories.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4120,6 +4139,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.9",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.9",
       "Repositories >= 1.0.0",
+      "Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -4156,6 +4176,9 @@
             },
             "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\AspNetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj": {
               "projectPath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\AspNetCoreWebApi\\Applications\\bsStoreApp\\Repositories\\Repositories.csproj"
+            },
+            "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\AspNetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\furka\\Desktop\\pratikler-egitim-main\\AspNetCoreWebApi\\Applications\\bsStoreApp\\Services\\Services.csproj"
             }
           }
         }
