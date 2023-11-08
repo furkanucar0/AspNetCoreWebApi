@@ -68,3 +68,24 @@
 2023-10-17 12:33:55.6378 Info Message Template Auto Format enabled
 2023-10-17 12:33:55.7563 Info Adding target FileTarget(Name=logfile)
 2023-10-17 12:33:55.7863 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2023-10-19 16:28:36.9695 Info Message Template Auto Format enabled
+2023-10-19 16:28:37.2891 Info Adding target FileTarget(Name=logfile)
+2023-10-19 16:28:37.3215 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2023-10-19 16:38:47.1178 Info Message Template Auto Format enabled
+2023-10-19 16:38:47.2334 Info Adding target FileTarget(Name=logfile)
+2023-10-19 16:38:47.2682 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2023-10-19 16:51:20.5664 Info Message Template Auto Format enabled
+2023-10-19 16:51:21.0414 Info Adding target FileTarget(Name=logfile)
+2023-10-19 16:51:21.0908 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2023-10-19 16:56:56.5274 Info Message Template Auto Format enabled
+2023-10-19 16:56:56.7793 Info Adding target FileTarget(Name=logfile)
+2023-10-19 16:56:56.8044 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2023-10-19 16:57:46.4764 Info Message Template Auto Format enabled
+2023-10-19 16:57:46.5796 Info Adding target FileTarget(Name=logfile)
+2023-10-19 16:57:46.6159 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2023-10-19 17:24:13.4873 Info Message Template Auto Format enabled
+2023-10-19 17:24:13.5946 Info Adding target FileTarget(Name=logfile)
+2023-10-19 17:24:13.6302 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
+2023-10-19 17:28:23.6710 Info Message Template Auto Format enabled
+2023-10-19 17:28:23.7831 Info Adding target FileTarget(Name=logfile)
+2023-10-19 17:28:23.8139 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\furka\Desktop\pratikler-egitim-main\AspNetCoreWebApi\Applications\bsStoreApp\WebApi\nlog.config
